@@ -7,4 +7,5 @@
 - *Email* : suraphak.au@ku.th
 
 **InfoSysSec Glossary** : [Log](/Log.md)
+---
 [E-Card](e-card.md)
